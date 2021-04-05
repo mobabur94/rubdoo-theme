@@ -3,12 +3,12 @@
 	"type": "light",
 	"colors": {
 		"focusBorder": "#ff8080",
-		"foreground": "#000000",
+		"foreground": "#1e1e1e",
 		"widget.shadow": "#00000040",
 		"icon.foreground": "#4080ff",
 		"errorForeground": "#ff4040",
 		"editor.background": "#ffffff",
-		"editor.foreground": "#000000",
+		"editor.foreground": "#1e1e1e",
 		"activityBar.background": "#f0f0f0",
 		"activityBar.foreground": "#0040ff",
 		"activityBar.inactiveForeground": "#4080ff",
@@ -22,13 +22,21 @@
 		"button.foreground": "#ffffff",
 		"button.hoverBackground": "#4080ff",
 		"button.secondaryBackground": "#ff8080",
-		"button.secondaryForeground": "#000000",
+		"button.secondaryForeground": "#1e1e1e",
 		"checkbox.background": "#4080ff",
 		"checkbox.foreground": "#ffffff",
 		"dropdown.listBackground": "#ffffff",
 		"dropdown.foreground": "#4080ff",
 		"statusBar.background": "#f0f0f0",
 		"statusBar.foreground": "#4080ff",
+		"statusBar.debuggingBackground": "#ff8040",
+		"statusBar.debuggingForeground": "#ffffff",
+		"statusBar.noFolderBackground": "#f0f0f0",
+		"statusBar.noFolderForeground": "#4080ff",
+		"statusBarItem.prominentBackground": "#ff4040",
+		"statusBarItem.prominentForeground": "#ffffff",
+		"statusBarItem.remoteBackground": "#408040",
+		"statusBarItem.remoteForeground": "#ffffff",
 		"titleBar.activeBackground": "#e0e0e0",
 		"titleBar.inactiveBackground": "#f0f0f0",
 		"terminal.background": "#ffffff",
@@ -317,14 +325,14 @@
 			"name": "Markup: Changed",
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#1e1e1e"
 			}
 		},
 		{
 			"name": "Markup: Deletion",
 			"scope": "markup.deleted",
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#1e1e1e"
 			}
 		},
 		{
@@ -345,7 +353,7 @@
 			"name": "Markup: Insertion",
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#1e1e1e"
 			}
 		},
 		{
