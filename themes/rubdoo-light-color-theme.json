@@ -102,7 +102,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#80ff80"
+				"foreground": "#ff00ff"
 			}
 		},
 		{
@@ -205,7 +205,7 @@
 			"name": "Strings: Escape Sequences",
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#80ff80"
+				"foreground": "#ff00ff"
 			}
 		},
 		{
@@ -226,7 +226,7 @@
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#80ff80"
+				"foreground": "#ff00ff"
 			}
 		},
 		{
@@ -370,14 +370,14 @@
 				"markup.raw"
 			],
 			"settings": {
-				"foreground": "#80ff80"
+				"foreground": "#ff00ff"
 			}
 		},
 		{
 			"name": "Markup: Prompt",
 			"scope": "markup.prompt",
 			"settings": {
-				"foreground": "#80ff80"
+				"foreground": "#ff00ff"
 			}
 		},
 		{
