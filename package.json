@@ -1,0 +1,26 @@
+{
+    "name": "rubdoo-theme",
+    "displayName": "rubdoo-theme",
+    "description": "rubdoo-theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "rubdoo-light",
+                "uiTheme": "vs",
+                "path": "./themes/rubdoo-light-color-theme.json"
+            },
+            {
+                "label": "rubdoo-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/rubdoo-dark-color-theme.json"
+            }
+        ]
+    }
+}
