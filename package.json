@@ -2,9 +2,17 @@
     "name": "rubdoo-theme",
     "displayName": "rubdoo-theme",
     "description": "rubdoo-theme",
+    "publisher": "rubdoo",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.55.0"
+    },
+    "author": {
+        "name": "rubdoo"
+    },
+    "repository": {
+        "url": "https://github.com/mobabur94/rubdoo-theme.git",
+        "type": "git"
     },
     "categories": [
         "Themes"
