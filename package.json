@@ -3,10 +3,11 @@
     "displayName": "rubdoo-theme",
     "description": "rubdoo-theme",
     "publisher": "rubdoo",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.55.0"
     },
+    "icon": "icon.png",
     "author": {
         "name": "rubdoo"
     },
